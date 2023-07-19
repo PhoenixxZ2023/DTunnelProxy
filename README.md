@@ -7,6 +7,6 @@
 }
 
 
-Só usar --token qualquerlixo
+Só usar --token @PhoenixxZ2023
 
 não verifica mesmo KEK
