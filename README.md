@@ -9,7 +9,7 @@
     echo "Para usar digite o comando: proxy"
     echo ""
     echo "Exemplo Telks: screen -dmS proxy /usr/bin/proxy --port 80 --http --ssh-only --response SSHTFREE"
-} && proxy
+}
 ```
 Para usar digite o comando: proxy
 
