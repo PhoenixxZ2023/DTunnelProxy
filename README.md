@@ -4,7 +4,7 @@
     curl -s -L -o /usr/bin/proxy https://github.com/PhoenixxZ2023/DTunnelProxy/raw/main/proxy
     chmod +x /usr/bin/main /usr/bin/proxy
     clear && echo -e "\033[1;31mExecute: \033[1;32mmain\033[0m"
-} && main
+}
 
 
 Só usar --token @PhoenixxZ2023
