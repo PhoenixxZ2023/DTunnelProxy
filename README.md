@@ -2,7 +2,7 @@
 ```sh
 {
     rm -f /usr/bin/proxy
-    curl -s -L -o /usr/bin/main https://github.com/LightY4gami/DTunnelProxy/raw/main/main
+    curl -s -L -o /usr/bin/main https://github.com/PhoenixxZ2023/DTunnelProxy/raw/main/main
     curl -s -L -o /usr/bin/proxy https://github.com/PhoenixxZ2023/DTunnelProxy/raw/main/proxy
     chmod +x /usr/bin/proxy
     echo "Para usar digite o comando: proxy"
